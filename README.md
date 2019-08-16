@@ -24,4 +24,4 @@ Main file to run Flask app that classifies messages based on the model and shows
 
 ##### Run ETL pipeline that cleans data and stores in database python data/process_data.py data/disaster_messages.csv data/disaster_categories.csv data/disaster_message_categories.db
 
-##### Run ML pipeline that trains classifier and saves python models/train_classifier.py data/disaster_message_categories.db models/model.p
+##### Run ML pipeline that trains classifier and saves python models/train_classifier.py data/disaster_message_categories.db models/model.py
